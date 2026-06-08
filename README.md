@@ -30,12 +30,6 @@ O FinanSmart ajuda o usuário a registrar receitas e despesas, organizar movimen
 
 ## Telas
 
-<<<<<<< HEAD
-> As capturas devem ser geradas depois da configuração do Supabase.
-
-<<<<<<< HEAD
-=======
->>>>>>> 98b51b329316d580a1c38e4c273dbc753a34ddd5
 <table>
   <tr>
     <th width="50%">Login</th>
@@ -54,27 +48,7 @@ O FinanSmart ajuda o usuário a registrar receitas e despesas, organizar movimen
     <td><img src="docs/screenshots/transacoes.png" alt="Tela de transações" width="100%"></td>
     <td><img src="docs/screenshots/categorias.png" alt="Tela de categorias" width="100%"></td>
   </tr>
-</table>
-=======
-| Login | Dashboard |
-| --- | --- |
-| <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/0c1fa8ba-7e67-476b-a7ab-7d48189a0d39" />
- |<img width="1902" height="916" alt="image" src="https://github.com/user-attachments/assets/226ed985-1be8-4c0a-abff-aded4a8daf29" />
- |
 
-| Transações | Categorias |
-| --- | --- |
-| <img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/b46b6b7a-2def-4183-8f8b-13f92b2c2a61" />
- |<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/7065f9a2-0c15-4d0c-ab6f-fdbdacbeed61" />
- |
->>>>>>> 578a70618567daf73dc78a0e03122e288fa11f61
-
-=======
-    <td><img src="docs/screenshots/transactions.png" alt="Tela de transações" width="100%"></td>
-    <td><img src="docs/screenshots/categories.png" alt="Tela de categorias" width="100%"></td>
-  </tr>
-</table>
->>>>>>> 98b51b329316d580a1c38e4c273dbc753a34ddd5
 ## Estrutura do projeto
 
 ```text
