@@ -44,10 +44,10 @@ O FinanSmart ajuda o usuário a registrar receitas e despesas, organizar movimen
     <th width="50%">Categorias</th>
   </tr>
   <tr>
-<<<<<<< HEAD
     <td><img src="docs/screenshots/transacoes.png" alt="Tela de transações" width="100%"></td>
     <td><img src="docs/screenshots/categorias.png" alt="Tela de categorias" width="100%"></td>
   </tr>
+</table>
 
 ## Estrutura do projeto
 
