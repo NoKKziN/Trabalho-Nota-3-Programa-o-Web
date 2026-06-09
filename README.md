@@ -156,8 +156,7 @@ O navegador envia o token de acesso à API Express. A API valida a sessão no Su
 
 ## Entrega
 
-- Relatório: `docs/RELATORIO_ENTREGA.md`
-- Roteiro do vídeo: `docs/ROTEIRO_VIDEO.md`
+- Link do vídeo: `https://youtu.be/Uifl9pAiNAg`
 - Script do banco: `supabase/schema.sql`
 
 ## Integrantes
